@@ -51,3 +51,6 @@ This project was created for educational purposes, please refer to the [LICENCE]
 - Etherscan free API key _(optional: used for the automated contract verificiation, as well as retrieving the current values for gas cost estimation)_
 - Infura free basic plan or higher _(optional: used by the CLI commands in order to perform operations on real blockchains, you can skip this if you deploy and manage your contract [using Truffle Dashboard](https://youtu.be/fwdIA5UuPmM))_
 - Coin Market Cap free API key _(optional: used for retrieving the current token price for gas cost estimation in USD)_
+
+
+- You can tip me if my repo was helpful to you :) ETH - 0x729E614222f3555194430423f5028B1F527B8C00
