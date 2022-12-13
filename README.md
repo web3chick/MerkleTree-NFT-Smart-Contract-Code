@@ -43,8 +43,8 @@ This project was created for educational purposes, please refer to the [LICENCE]
 ## Requirements
 
 ### Software
-- [Visual Studio Code](https://code.visualstudio.com/) (with the [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) extension)
-- [NodeJs](https://nodejs.org/) (with the [Yarn package manager](https://yarnpkg.com/getting-started/install))
+- [Visual Studio Code](https://code.visualstudio.com/) (with the [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) extension).
+- [NodeJs](https://nodejs.org/) (with the [Yarn package manager](https://yarnpkg.com/getting-started/install)).
 - If you have issues with Node v18, you may downgrade to v16 or use the most recent release from Hashlips Lab which supports Node v18 dependencies. 
 
 ### Services
